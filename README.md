@@ -11,8 +11,10 @@ It provides insights into **sales trends, profit margins, customer behavior, and
 To build an interactive Power BI dashboard that tracks Shopify store performance and identifies key growth areas using data analytics.
 
 ---
+<img width="897" height="526" alt="Screenshot 2025-10-29 195030" src="https://github.com/user-attachments/assets/9b5d1c6e-e573-47bc-b266-cbd01812d5cf" />
 
 ## 🧠 Key Insights
+
 - 📈 Identified top-performing products and categories by sales and profit.  
 - 💸 Analyzed total revenue and profit margin across different regions.  
 - 👥 Tracked customer acquisition and retention trends.  
